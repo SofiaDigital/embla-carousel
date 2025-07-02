@@ -3,6 +3,9 @@
   "version": "8.6.0",
   "author": "David Jerleke",
   "description": "A lightweight carousel library with fluid motion and great swipe precision",
+  "publishConfig": {
+    "registry": "https://nexus.sofiadigital.fi/repository/sofiaNPM/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davidjerleke/embla-carousel"
